@@ -21,4 +21,4 @@ var lightbox = new SimpleLightbox('.gallery a', {
   captionDelay: 250,
   captionPosition: 'bottom',
 });
-console.log(galleryItems);і
+console.log(galleryItems);
